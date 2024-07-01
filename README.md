@@ -8,9 +8,8 @@ na área.
 Este projeto está sendo desenvolvido através do bootcamp
 "Desenvolvendo Java com IA", da DIO. A idéia é aprimorar
 os meus conhecimentos nesta linguagem a qual já possuo uma
-certa familiaridade trabalhando com ela na minha atual empresa.
-O meu objetivo é dar continuidade neste projeto, mesmo após a 
-conclusão deste curso, visando tornar o sistema cada vez mais profissional.
+certa familiaridade. O meu objetivo é dar continuidade neste projeto,
+ mesmo após a conclusão deste curso, visando tornar o sistema cada vez mais profissional.
 
 
 Segue abaixo as informações do projeto ( ainda em estágio inicial ):
