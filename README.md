@@ -4,7 +4,6 @@ Olá! Meu nome é Felipe, e atualmente, trabalho com a
 linguagem Java com foco no desenvolvimento back-end,
 onde possuo 2 anos e meio de experiência atuando 
 na área. 
-
 Este projeto está sendo desenvolvido através do bootcamp
 "Desenvolvendo Java com IA", da DIO. A idéia é aprimorar
 os meus conhecimentos nesta linguagem, e dar continuidade 
@@ -13,7 +12,7 @@ visando tornar o sistema cada vez mais profissional,
 e aperfeiçoar as minhas habilidades como desenvolvedor.
 
 
-##informações do projeto ( ainda em estágio inicial ):
+## Informações do Projeto:
 
 Projeto envolvido: Modelagem das funcionalidades de um Iphone,
 onde nesta primeira etapa, foi implementada 3 classes representando
