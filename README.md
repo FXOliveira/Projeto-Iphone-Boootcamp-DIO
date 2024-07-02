@@ -25,7 +25,8 @@ o papel de ReprodutorMusical, AparelhoTelefonico e Navegador de Internet.
 
 <br>
 
-![image](https://github.com/FXOliveira/Projeto-Iphone-Boootcamp-DIO/assets/81167481/fb4f1329-0485-4129-8a2a-eddc0227eece)
+![image](https://github.com/FXOliveira/Projeto-Iphone-Boootcamp-DIO/assets/81167481/576cb345-d161-487a-8250-b286f6fdcf5a)
+
 
 <br><br>
 
