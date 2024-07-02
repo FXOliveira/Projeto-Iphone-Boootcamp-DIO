@@ -1,4 +1,4 @@
-# Projeto-Iphone-Boootcamp-DIO
+# PROJETO IPHONE BOOTCAMP DIO
 <br>
 <p>Olá! Meu nome é Felipe, e atualmente, trabalho com a
 linguagem Java com foco no desenvolvimento back-end,
@@ -13,7 +13,7 @@ e aperfeiçoar as minhas habilidades como desenvolvedor.</p>
 
 <br><br>
 
-## Informações do Projeto:
+## INFORMAÇÕES DO PROJETO:
 <br>
 Projeto envolvido: Modelagem das funcionalidades de um Iphone,
 onde nesta primeira etapa, foi implementada 3 classes representando
@@ -21,7 +21,7 @@ o papel de ReprodutorMusical, AparelhoTelefonico e Navegador de Internet.
 
 <br><br>
 
-## Diagrama UML 
+## DIAGRAMA UML 
 
 <br>
 
@@ -29,12 +29,13 @@ o papel de ReprodutorMusical, AparelhoTelefonico e Navegador de Internet.
 
 <br><br>
 
-## Tecnologias Envolvidas
+## VERSÃO DO JAVA
 <br>
+17
+<br><br>
 
-Versão Java utilizado neste projeto: 17
-
-Tecnologias envolvidas: 
+## TECNOLOGIAS ENVOLVIDAS:
+<br>
  - Spring Boot
 
 
