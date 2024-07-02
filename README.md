@@ -20,7 +20,7 @@ o papel de ReprodutorMusical, AparelhoTelefonico e Navegador de Internet.
 
 
 
-# DIAGRAMA UML 
+## Diagrama UML 
 
 
 
@@ -28,6 +28,7 @@ o papel de ReprodutorMusical, AparelhoTelefonico e Navegador de Internet.
 
 
 
+## Tecnologias Envolvidas
 
 Versão Java utilizado neste projeto: 17
 
