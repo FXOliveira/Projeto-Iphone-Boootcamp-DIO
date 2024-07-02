@@ -1,4 +1,4 @@
-### Projeto-Iphone-Boootcamp-DIO
+## Projeto-Iphone-Boootcamp-DIO
 
 Olá! Meu nome é Felipe, e atualmente, trabalho com a
 linguagem Java com foco no desenvolvimento back-end,
@@ -12,7 +12,7 @@ visando tornar o sistema cada vez mais profissional,
 e aperfeiçoar as minhas habilidades como desenvolvedor.
 
 
-## Informações do Projeto:
+# Informações do Projeto:
 
 Projeto envolvido: Modelagem das funcionalidades de um Iphone,
 onde nesta primeira etapa, foi implementada 3 classes representando
