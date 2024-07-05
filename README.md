@@ -17,6 +17,7 @@ e aperfeiçoar as minhas habilidades como desenvolvedor.</p>
 <br>
 Projeto envolvido: Modelagem das funcionalidades de um Iphone,
 onde nesta primeira etapa, foi implementada 3 classes representando: 
+<br>
 
 - ReprodutorMusical,
 - AparelhoTelefonico
